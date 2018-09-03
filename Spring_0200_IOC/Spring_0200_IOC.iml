@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/spring-config.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Spring-4.3.12.RELEASE" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java_src_ssh/Java Jar package/junit-4.12.jar!/" />
+          <root url="jar://E:/Java_src_ssh/Java Jar package/hamcrest-core-1.3.jar!/" />
+          <root url="file://E:/Java_src_ssh/Java Jar package" />
+          <root url="file://E:/Java_src_ssh/Java Jar package" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://E:/Java_src_ssh/Java Jar package/apache-log4j-1.2.17/site/apidocs" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/aspectj-1.8.10/doc/aspectj5rt-api" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/aspectj-1.8.10/doc/runtime-api" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/aspectj-1.8.10/doc/weaver-api" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://E:/Java_src_ssh/Java Jar package" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/apache-log4j-1.2.17" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/apache-log4j-1.2.17/contribs/CekiGulcu" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/apache-log4j-1.2.17/contribs/Jamie Tsao" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/apache-log4j-1.2.17/contribs/JimMoore" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/apache-log4j-1.2.17/contribs/ThomasFenner" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/apache-log4j-1.2.17/src/main/java" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/apache-log4j-1.2.17/src/main/javadoc" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/apache-log4j-1.2.17/src/performance/java" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/apache-log4j-1.2.17/tests/src/java" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/aspectj-1.8.10-src/aspectjrt1.8.10-src" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/aspectj-1.8.10/doc/examples" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/aspectj-1.8.10/doc/examples/ltw" />
+          <root url="file://E:/Java_src_ssh/Java Jar package/mysql-connector-java-5.1.43/mysql-connector-java-5.1.43/src" />
+        </SOURCES>
+        <jarDirectory url="file://E:/Java_src_ssh/Java Jar package" recursive="false" />
+        <jarDirectory url="file://E:/Java_src_ssh/Java Jar package" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>

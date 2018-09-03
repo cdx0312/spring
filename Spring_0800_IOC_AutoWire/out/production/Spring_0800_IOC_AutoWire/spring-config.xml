@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <!--<bean name="userDAO1" class="com.dao.impl.UserDAOImpl">-->
+        <!--<property name="daoId" value="1" />-->
+    <!--</bean>-->
+    <bean name="userDAO2" class="com.dao.impl.UserDAOImpl" >
+        <property name="daoId" value="2" />
+    </bean>
+    <bean name="userService" class="com.service.UserService" scope="prototype" autowire="byType" />
+</beans>

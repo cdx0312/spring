@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="Spring" type="spring">
+    <CLASSES>
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/aopalliance-1.0.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/aspectjrt.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/aspectjtools.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/aspectjweaver.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/commons-dbcp-1.4.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/commons-logging-1.2.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/commons-pool-1.6.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/junit-4.12.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/mysql-connector-java-5.1.43-bin.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/org.aspectj.matcher.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-aop-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-aop-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-aspects-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-aspects-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-beans-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-beans-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-context-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-context-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-context-support-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-context-support-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-core-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-core-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-expression-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-expression-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-instrument-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-instrument-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-instrument-tomcat-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-instrument-tomcat-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-jdbc-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-jdbc-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-jms-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-jms-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-messaging-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-messaging-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-orm-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-orm-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-oxm-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-oxm-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-test-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-test-4.3.12.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-tx-4.3.10.RELEASE.jar!/" />
+      <root url="jar://E:/Java_src_ssh/Java Jar package/Spring_lib/spring-tx-4.3.12.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-orm-4.3.10.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-tx-4.3.10.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-core-4.3.10.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

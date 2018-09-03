@@ -1,0 +1,123 @@
+package action;
+
+import com.registration.action.UserAction;
+import com.registration.model.User;
+import com.sun.org.apache.xpath.internal.operations.String;
+import org.junit.Assert;
+import org.junit.Test;
+import org.junit.Before; 
+import org.junit.After; 
+
+/** 
+* UserAction Tester. 
+* 
+* @author <Authors name> 
+* @since <pre>ʮ�� 26, 2017</pre> 
+* @version 1.0 
+*/ 
+public class UserActionTest { 
+
+@Before
+public void before() throws Exception { 
+} 
+
+@After
+public void after() throws Exception { 
+} 
+
+/** 
+* 
+* Method: getUsername() 
+* 
+*/ 
+@Test
+public void testGetUsername() throws Exception { 
+//TODO: Test goes here... 
+} 
+
+/** 
+* 
+* Method: setUsername(String username) 
+* 
+*/ 
+@Test
+public void testSetUsername() throws Exception { 
+//TODO: Test goes here... 
+} 
+
+/** 
+* 
+* Method: getPassword() 
+* 
+*/ 
+@Test
+public void testGetPassword() throws Exception { 
+//TODO: Test goes here... 
+} 
+
+/** 
+* 
+* Method: setPassword(String password) 
+* 
+*/ 
+@Test
+public void testSetPassword() throws Exception { 
+//TODO: Test goes here... 
+} 
+
+/** 
+* 
+* Method: getPassword2() 
+* 
+*/ 
+@Test
+public void testGetPassword2() throws Exception { 
+//TODO: Test goes here... 
+} 
+
+/** 
+* 
+* Method: setPassword2(String password2) 
+* 
+*/ 
+@Test
+public void testSetPassword2() throws Exception { 
+//TODO: Test goes here... 
+} 
+
+/** 
+* 
+* Method: getUserManager() 
+* 
+*/ 
+@Test
+public void testGetUserManager() throws Exception { 
+//TODO: Test goes here... 
+} 
+
+/** 
+* 
+* Method: setUserManager(UserManager userManager) 
+* 
+*/ 
+@Test
+public void testSetUserManager() throws Exception { 
+//TODO: Test goes here... 
+} 
+
+/** 
+* 
+* Method: execute() 
+* 
+*/ 
+@Test
+public void testExecute() throws Exception {
+    UserAction userAction = new UserAction();
+    userAction.setUsername("ghg");
+    userAction.setPassword("ghj");
+    java.lang.String ret = userAction.execute();
+    Assert.assertEquals("success", ret);
+} 
+
+
+} 
